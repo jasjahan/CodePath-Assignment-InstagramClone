@@ -27,7 +27,7 @@ Stays logged in             |  Log out
 
 View comments           |  Add a new comment
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](http://g.recordit.co/5HH8biTS36.gif)  |  ![](http://g.recordit.co/s9FW9PtbcA.gif)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
