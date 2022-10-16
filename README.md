@@ -21,6 +21,13 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+Stays logged in             |  Log out
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](http://g.recordit.co/9R73FojAqF.gif)
+
+View comments           |  Add a new comment
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
