@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 Stays logged in             |  Log out
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](http://g.recordit.co/9R73FojAqF.gif)
+![](http://g.recordit.co/kVbR08MvoL.gif)  |  ![](http://g.recordit.co/9R73FojAqF.gif)
 
 View comments           |  Add a new comment
 :-------------------------:|:-------------------------:
