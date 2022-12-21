@@ -57,17 +57,3 @@ The following **bonus** features are implemented:
 
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past posts infinitely. (2pts)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/tH2shSUZUx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='http://g.recordit.co/LO8GCCA9ZG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='http://g.recordit.co/693BGKeaM9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='http://g.recordit.co/1fAvBuxW2Q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='http://g.recordit.co/oZHadW76Et.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
